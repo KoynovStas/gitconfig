@@ -1,0 +1,11 @@
+[user]
+	name  = KoynovStas
+	email = skojnov@yandex.ru
+
+[core]
+	excludesfile = ~/.gitignore_global
+	editor       = nano
+	autocrlf     = input
+
+[push]
+	default = simple
