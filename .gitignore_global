@@ -13,6 +13,9 @@
 
 # Project configuration settings like predefined Macros
 *.config
+*.cflags
+*.cxxflags
+
 
 # Qt Creator settings
 *.creator
@@ -23,6 +26,13 @@
 # Qt Creator backups
 *.autosave
 
+
+# QtCtreator Qml
+*.qmlproject.user
+*.qmlproject.user.*
+
+# QtCtreator CMake
+CMakeLists.txt.user*
 
 
 
