@@ -1,0 +1,8 @@
+#man https://www.systutorials.com/docs/linux/man/5-tigrc/
+
+set main-options = --all --date-order
+
+set line-graphics = utf-8
+set tab-size = 4
+set diff-context = 20
+set vertical-split = no
