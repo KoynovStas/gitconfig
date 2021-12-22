@@ -6,3 +6,28 @@ set line-graphics = utf-8
 set tab-size = 4
 set diff-context = 20
 set vertical-split = no
+
+
+# main-view
+set main-view-date = custom
+set main-view-date-format = "%Y-%m-%d %H:%M"
+
+
+# tree-view
+set tree-view-date = custom
+set tree-view-date-format = "%Y-%m-%d %H:%M"
+set tree-view-file-size = units
+
+
+# blame-view
+set blame-view-date = custom
+set blame-view-date-format = "%Y-%m-%d %H:%M"
+
+
+# refs-view
+set refs-view-date = custom
+set refs-view-date-format = "%Y-%m-%d %H:%M"
+
+
+# blob-view
+set blob-view = line-number:yes,interval=1 text
