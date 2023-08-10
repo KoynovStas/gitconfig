@@ -7,6 +7,9 @@
 	editor       = kate --startanon 2>/dev/null
 	autocrlf     = input
 
+[init]
+	defaultBranch = master
+
 [push]
 	default = simple
 

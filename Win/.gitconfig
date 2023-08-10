@@ -9,6 +9,9 @@
 	autocrlf     = true
 	askpass      =
 
+[init]
+	defaultBranch = master
+
 [color]
 	ui = true
 
