@@ -19,6 +19,7 @@
 	ignore  = "!gi() { curl -L -s https://www.gitignore.io/api/$@ ;}; gi"
 	rclone  = clone --recurse-submodules
 	rpull   = pull  --recurse-submodules
+	rpush   = push  --recurse-submodules=on-demand
 
 [credential "helperselector"]
 	selected = <no helper>
