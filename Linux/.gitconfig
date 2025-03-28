@@ -22,3 +22,4 @@
 	rpull   = pull  --recurse-submodules
 	rpush   = push  --recurse-submodules=on-demand
 	rdiff   = diff  --submodule=diff
+	rupdate = submodule update --init --recursive
