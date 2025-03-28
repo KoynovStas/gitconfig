@@ -14,4 +14,5 @@
 	default = simple
 
 [alias]
-	ignore = "!gi() { curl -L -s https://www.gitignore.io/api/$@ ;}; gi"
+	ignore  = "!gi() { curl -L -s https://www.gitignore.io/api/$@ ;}; gi"
+	rclone  = clone --recurse-submodules
