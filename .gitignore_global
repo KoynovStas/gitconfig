@@ -18,7 +18,7 @@
 
 
 # Qt Creator settings
-*.creator
+*.qtcreator
 
 # User project settings
 *.creator.user*
